@@ -1,0 +1,3 @@
+[submodule "ReposOriginales"]
+	path = ReposOriginales
+	url = git@github.com:CEIABDRibera/CEIABD_MODULOS_IA.git
