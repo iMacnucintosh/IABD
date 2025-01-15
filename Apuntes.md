@@ -15,10 +15,23 @@ Recursos IA: [Kaggle: Your Machine Learning and Data Science Community](https://
 - Examen de recuperación
 - Trabajos practicos con lo que se ha hecho en clase.
 
+## IA
+
+### Programación IA
+
+[Mostrar](Documentacion/IA/Programacion_IA/programacion.md)
+
+### Modelos IA
+
+[Mostrar](Documentacion/IA/Modelos_IA/modelos.md)
+
 ## Sistemas
 
-[Mostrar](Documentación/Sistemas/sistemas.md)
+### Sistemas de Big Data
 
-## Programación IA
+[Mostrar](Documentacion/Sistemas/Sistemas_BigData/sistemas_bigdata.md)
 
-[Mostrar](Documentación/ProgramacionIA/programacion.md)
+### Big Data Aplicado
+
+[Mostrar](Documentacion/Sistemas/BigData_Aplicado/BigData_aplicado.md)
+
