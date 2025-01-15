@@ -33,5 +33,5 @@ Recursos IA: [Kaggle: Your Machine Learning and Data Science Community](https://
 
 ### Big Data Aplicado
 
-[Mostrar](Documentacion/Sistemas/BigData_Aplicado/BigData_aplicado.md)
+[Mostrar](Documentacion/Sistemas/BigData_Aplicado/00_Contenidos.md)
 

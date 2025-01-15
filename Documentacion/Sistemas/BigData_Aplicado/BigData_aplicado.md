@@ -1,1 +1,0 @@
-Información de Sistemas de BigData
