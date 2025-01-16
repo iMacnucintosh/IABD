@@ -27,7 +27,7 @@
 - Sistemas de almacenamiento distribuidos.
   - `01_HDFS.md` - Guía práctica de HDFS (Hadoop Distributed File System).
 - Tolerancia a fallos.
-   - El contenido se aborda en la documentación teórica entregada al inicio del curso.
+  - El contenido se aborda en la documentación teórica entregada al inicio del curso.
 - Herramientas:
   - Map Reduce
     - `02_MapReduce.md` - Guía básica de MapReduce.
