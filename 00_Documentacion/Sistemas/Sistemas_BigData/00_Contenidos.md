@@ -20,7 +20,7 @@ network:
     version: 2
 ```
 
-Después hay que seguir el documento [Instalar hadoop](Documentacion/Sistemas/Sistemas_BigData/Instalar_hadoop_un_solo_nodo.pdf)
+Después hay que seguir el documento [Instalar hadoop](00_Documentacion/Sistemas/Sistemas_BigData/Instalar_hadoop_un_solo_nodo.pdf)
 
 Una vez configurado todo, podemos iniciar el HDFS y YARN con los siguientes comandos desde esta ubicación:
 
