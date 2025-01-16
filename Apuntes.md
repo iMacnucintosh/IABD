@@ -27,13 +27,13 @@ Recursos IA: [Kaggle: Your Machine Learning and Data Science Community](https://
 
 ### Sistemas de aprendizaje automático
 
-[Mostrar](Documentacion/IA/Sistemas/Sistemas_de_aprendizaje_automatico/00_Contenidos.md)
+[Mostrar](Documentacion/IA/Sistemas_de_aprendizaje_automatico/00_Contenidos.md)
 
 ## Sistemas
 
 ### Sistemas de Big Data
 
-[Mostrar](Documentacion/Sistemas/Sistemas_BigData/sistemas_bigdata.md)
+[Mostrar](Documentacion/Sistemas/Sistemas_BigData/00_Contenidos.md)
 
 ### Big Data Aplicado
 
